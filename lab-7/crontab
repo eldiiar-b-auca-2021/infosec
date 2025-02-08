@@ -1,0 +1,1 @@
+0 8 * * * /usr/bin/python3 /home/eldiiar_b/send_email.py >> /home/eldiiar_b/email_log.txt 2>&1
